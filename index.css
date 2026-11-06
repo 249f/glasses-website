@@ -486,6 +486,12 @@
       letter-spacing: .12em;
       text-transform: uppercase;
     }
+    .nav-links{
+        background-color: #61616157;
+        padding: 15px ;
+        border-radius: 25px;
+        backdrop-filter: blur(10px);
+    }
 
     /* Responsive */
     @media (max-width: 1050px) {
